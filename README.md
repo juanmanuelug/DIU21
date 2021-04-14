@@ -15,14 +15,14 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Jesús Espínola Conde     :octocat:     
+ * :bust_in_silhouette:  Juan Manuel Utrera García     :octocat:
 
 ----- 
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
+
 
 
 # Proceso de Diseño 
@@ -70,16 +70,12 @@ Hemos realizado la comparación de 5 paginas web/apps de información turisticas
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+![P2MallaReceptora](https://user-images.githubusercontent.com/79656427/114731960-6e5e2c80-9d42-11eb-932d-95c16c56191e.png)
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -87,16 +83,21 @@ Hemos realizado la comparación de 5 paginas web/apps de información turisticas
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
+Aplicación con información sobre turismo y actividades tanto en la ciudad de Granada como en toda la provincia. Dispone de enlaces de interés, contacto con guías turísticas, con alojamientos en la zona, información de horarios y disponibilidad de los museos, monumentos y sitios de interés cultural, toda la información sobre el COVID-19 en la provincia, las medidas y restricciones aplicadas en cada momento. Dispone además de un listado de eventos y activades en toda la provincia, visualizables en modo de calendario y de lista ordenada por fecha de los eventos. También dispone de la posibilidad de cambiar a modo oscuro, modificar el tamaño de letra o idioma, y ayuda y preguntas frecuentes para que sea lo más simple y clara posible para el usuario.
+
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![canvas](https://user-images.githubusercontent.com/79656427/114734988-0ceb8d00-9d45-11eb-9743-c0ac06acc315.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
+![usertaskmatrix](https://user-images.githubusercontent.com/79656427/114736168-280acc80-9d46-11eb-80bd-86e5d04e6f33.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -108,12 +109,66 @@ Hemos realizado la comparación de 5 paginas web/apps de información turisticas
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
+  
+![Sitemap](https://user-images.githubusercontent.com/79656427/114736429-5f797900-9d46-11eb-91ac-4d2050fb75a8.jpg)
+
+
+![labelling](https://user-images.githubusercontent.com/79656427/114736514-715b1c00-9d46-11eb-8d2c-eea759dcb6ed.png)
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+Página Principal
+
+![prototipo1](https://user-images.githubusercontent.com/79656427/114737498-5fc64400-9d47-11eb-85cd-7bae1c177e41.png)
+
+Desplegable
+
+![prototipo2](https://user-images.githubusercontent.com/79656427/114737535-681e7f00-9d47-11eb-8e84-48fad632b0a5.png)
+
+Lista de Actividades/Rutas/Sitios de Interés
+
+![prototipo3](https://user-images.githubusercontent.com/79656427/114737585-740a4100-9d47-11eb-9fa2-e4ee81f8e67d.png)
+
+Info Actividades
+
+![prototipo4](https://user-images.githubusercontent.com/79656427/114737645-84222080-9d47-11eb-878c-47709567f224.png)
+
+Info Rutas
+
+![prototipo5](https://user-images.githubusercontent.com/79656427/114737694-8edcb580-9d47-11eb-9655-2febbf534ca4.png)
+
+Info Alojamientos
+
+![prototipo6](https://user-images.githubusercontent.com/79656427/114737742-98feb400-9d47-11eb-936a-8b679b2d1e6c.png)
+
+Info Sitios de Interés
+
+![prototipo7](https://user-images.githubusercontent.com/79656427/114737792-a61ba300-9d47-11eb-8928-d5ef2217cb9a.png)
+
+Info Información Histórica
+
+![prototipo8](https://user-images.githubusercontent.com/79656427/114737831-b03da180-9d47-11eb-8336-41ab057d1746.png)
+
+Contacto
+
+![prototipo9](https://user-images.githubusercontent.com/79656427/114737872-b895dc80-9d47-11eb-9102-466dda8e5dfd.png)
+
+Buscador
+
+![prototipo10](https://user-images.githubusercontent.com/79656427/114737917-c51a3500-9d47-11eb-8d46-3309ccdcd336.png)
+
+Calendario
+
+![prototipo11](https://user-images.githubusercontent.com/79656427/114737963-cf3c3380-9d47-11eb-8094-7e02a2eb2d18.png)
+
+Medidas Covid
+
+![prototipo12](https://user-images.githubusercontent.com/79656427/114738014-db27f580-9d47-11eb-981c-16351eb2c725.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
