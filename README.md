@@ -1,15 +1,15 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU2_LosCogollicosJesúsEspínolaCondeJuanManuelUtreraGarcía.  Curso: 2020/21 
+Updated: 14/04/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Provincia Nazarí
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Aplicación con información de todo tipo sobre eventos, actividades, rutas, sitios de interés de la provincia de Granada.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -76,15 +76,8 @@ Hemos realizado la comparación de 5 paginas web/apps de información turisticas
 
 ![P2MallaReceptora](https://user-images.githubusercontent.com/79656427/114731960-6e5e2c80-9d42-11eb-932d-95c16c56191e.png)
 
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
 Aplicación con información sobre turismo y actividades tanto en la ciudad de Granada como en toda la provincia. Dispone de enlaces de interés, contacto con guías turísticas, con alojamientos en la zona, información de horarios y disponibilidad de los museos, monumentos y sitios de interés cultural, toda la información sobre el COVID-19 en la provincia, las medidas y restricciones aplicadas en cada momento. Dispone además de un listado de eventos y activades en toda la provincia, visualizables en modo de calendario y de lista ordenada por fecha de los eventos. También dispone de la posibilidad de cambiar a modo oscuro, modificar el tamaño de letra o idioma, y ayuda y preguntas frecuentes para que sea lo más simple y clara posible para el usuario.
-
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -96,19 +89,13 @@ Aplicación con información sobre turismo y actividades tanto en la ciudad de G
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+
 ![usertaskmatrix](https://user-images.githubusercontent.com/79656427/114736168-280acc80-9d46-11eb-80bd-86e5d04e6f33.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
   
 ![Sitemap](https://user-images.githubusercontent.com/79656427/114736429-5f797900-9d46-11eb-91ac-4d2050fb75a8.jpg)
 
@@ -120,7 +107,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación) 
 
 Página Principal
 
