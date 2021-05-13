@@ -36,4 +36,4 @@
 
 ## Documentación: Publicación del Case Study
 - Hemos realizado el trabajo sin muchos obstaculos la verdad, además las herramientas que se nos proporcionaban junto a algunas que vimos en clase de teoría nos han facilitado la realización de la Práctica.
-- El video del caso de estudio esta disponible aquí.
+- El video del caso de estudio esta disponible aquí: https://youtu.be/KtoYsn5Tso0.
