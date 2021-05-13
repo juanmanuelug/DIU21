@@ -12,7 +12,9 @@ Descripción:
 Aplicación con información de todo tipo sobre eventos, actividades, rutas, sitios de interés de la provincia de Granada.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![logoRojo](https://user-images.githubusercontent.com/79656427/118161339-be064580-b41f-11eb-9eb1-23f92c9edfa1.png)
+
 
 Miembros
  * :bust_in_silhouette:   Jesús Espínola Conde     :octocat:     
@@ -164,36 +166,57 @@ Medidas Covid
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Moodboard:
+![moodboard](https://user-images.githubusercontent.com/79656427/118161684-25bc9080-b420-11eb-8b2b-e343768e71d8.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Logotipo:
+
+![LOGO](https://user-images.githubusercontent.com/79656427/118161783-484ea980-b420-11eb-86cc-6540e379b4e6.png)
+
+El logotipo lo diseñamos desde la página https://smashinglogo.com/es/, que ofrecía muy buenas herramientas para el diseño de logotipos. La resolución es 463x428, ya que es una captura de la pantalla porque no encontramos como descargar el archivo de su página, y buscamos que fuera lo más cuadrado posible. Como cabecera de Twitter necesitaríamos una imagen más alargada que se ajustara a la dimensión requerida.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+![landingpage](https://user-images.githubusercontent.com/79656427/118162262-d32fa400-b420-11eb-8e1f-18fa7f0617d7.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![guideline](https://user-images.githubusercontent.com/79656427/118163332-2524f980-b422-11eb-9aa7-207bc0fafb81.png)
+
+Hemos elegido una tipografía sencilla y amigable a la vista, nos permite una lectura agradable y muy legible. Estas tipografías de las que hablamos son Arabic Typesetting y Arial. La primera la usamos en títulos y textos menos importantes, mientras que Arial la usamos más en el grueso del proyecto.
+Además son tipografías accesibles de forma gratuita.
+Los colores seleccionados son el blanco y un color rojo tirando hacia granate, evitando introducir colores demasiado llamativos y que no compaginen entre sí.
+A la hora del estudio de los Patrones de Diseño nos hemos interesado por Material Design. Web que nos permite desarrollar estos de una manera muy cómoda, ya que nos provee de gran variedad de herramientas, colección extensa de iconos y normas para que nuestra aplicación sea accesible para todos.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![1](https://user-images.githubusercontent.com/79656427/118163827-ba27f280-b422-11eb-9722-982d9dfac166.png)
+![2](https://user-images.githubusercontent.com/79656427/118163831-bb591f80-b422-11eb-9bd3-f3df9fda2bce.png)
+![3](https://user-images.githubusercontent.com/79656427/118163837-bc8a4c80-b422-11eb-853d-821bdc176268.png)
+![4 0](https://user-images.githubusercontent.com/79656427/118163844-bdbb7980-b422-11eb-875e-756f93bb7670.png)
+![4 1](https://user-images.githubusercontent.com/79656427/118163852-beeca680-b422-11eb-9d7e-c9c3d77d1954.png)
+![4 2](https://user-images.githubusercontent.com/79656427/118163857-c01dd380-b422-11eb-88fd-07eb6dc32b4a.png)
+![4 3](https://user-images.githubusercontent.com/79656427/118163862-c14f0080-b422-11eb-8945-bdde178882da.png)
+![4 4](https://user-images.githubusercontent.com/79656427/118163865-c2802d80-b422-11eb-981d-fc5c6c8e3cb9.png)
+![5](https://user-images.githubusercontent.com/79656427/118163869-c318c400-b422-11eb-912d-6236e42235eb.png)
+![6](https://user-images.githubusercontent.com/79656427/118163872-c449f100-b422-11eb-92b5-a2d269bbf920.png)
+![7](https://user-images.githubusercontent.com/79656427/118163881-c6ac4b00-b422-11eb-8080-140519b17807.png)
+![8](https://user-images.githubusercontent.com/79656427/118163885-c7dd7800-b422-11eb-99a9-e755b77767b5.png)
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+https://youtu.be/KtoYsn5Tso0
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
