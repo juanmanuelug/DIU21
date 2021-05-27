@@ -225,8 +225,19 @@ https://youtu.be/KtoYsn5Tso0
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Primer caso: Turismo Nazarí. Página web/App para busqueda de información sobre turismo en la provincia de granada permitiendo además encontrar alojamientos, eventos, actividades y rutas que realizar en la provincia.
+![caso1](https://user-images.githubusercontent.com/79656427/119859663-e14bed00-bf15-11eb-9074-827eb1624f3f.png)
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+
+Segundo caso: Travel Safe. Con Travel Safe, podrás obtener el planning para un viaje turístico introduciendo el lugar de partida y el de destino (o eligiendo uno ya dado). La web te asignará una ruta predeterminada escogiendo los lugares de más interés (según las preferencias escogidas y las restricciones covid que haya en el momento) para visitar, y dando la opción al usuario de añadir y modificar el planning proporcionado como desee, cambiando el tiempo de visita, añadiendo/quitando los lugares que visitaría, etc. Todos los espacios a visitar tendrán información sobre las cláusulas covid establecidas y las medidas aplicadas. Además, se proporciona al usuario con una demo de lo que sería la visita a los lugares seleccionados virtualmente, sin tener que salir de casa.
+
+![caso2](https://user-images.githubusercontent.com/79656427/119859797-fc1e6180-bf15-11eb-8dc9-605d25f71d39.png)
+
+
+Tercer caso: Una aplicación para buscar trayectos guiados de senderismo por Granada. Personas que quieren participar tienen un buscador donde pueden indicar el lugar, la fecha y la hora del trayecto, además de un mapa con la ubicación exacta de las rutas. Al elegir una ruta de senderismo gastronómico te muestra toda la información del recorrido, incluyendo el lugar de recogida, el lugar donde empieza el trayecto, los puntos por donde se pasa, el lugar donde termina, a qué bar se les va a llevar al terminar (para finalizar con una experiencia gastronómica autóctona del lugar y saludable) la ruta, las calorías que has quemado, las calorías consumidas(dependiendo el plato que escojas) y el costo por persona. Los usuarios indicarán con cuántas personas piensan ir y los datos de cada una. Se puede realizar el pago y la reserva directamente desde la aplicación. Una vez realizado el pago se puede anular dependiendo de cuántos días faltan para el evento, entre más cercana sea la fecha habrá una penalización que se le indicará con anticipación al usuario. La aplicación contará con versiones en varios idiomas y filtros avanzados que incluyen la búsqueda de rutas de senderismos adaptadas a personas con discapacidad.
+![caso3](https://user-images.githubusercontent.com/79656427/119860335-81a21180-bf16-11eb-954c-6875f269815e.png)
+
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -237,30 +248,31 @@ https://youtu.be/KtoYsn5Tso0
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Juan Ruíz     | H / 40   | Policía     | Media       | Familiar     | móvil      | A 
+| User2's name  | M / 70   | Jubildada   | Nula        | Cansada      | ninguna    | A 
+| User3's name  | H / 23   | Estudiante  | Alta        | Introvertido | web        | B 
+| User4's name  | M / 35   | Secretaria  | Media       | Miedosa      | Web        | B 
+| User3's name  | H / 18   | Estudiante  | Alta        | Triste       | móvil      | X 
+| User4's name  | M / 50   | Trab y est. | Media       | Trabajadora  | Web        | X 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![cuestionariosus](https://user-images.githubusercontent.com/79656427/119864551-04c56680-bf1b-11eb-86ae-22468b45f4a4.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
+Lógicamente la nota más baja es la del perfil con nulas capacidades tecnológicas, lo que no quiere decir que el proyecto correspondiente (de Los Pibes) esté mal, sino que el usuario no se entiende bien con ese tipo de formato. Las páginas dan muy buenos resultados ante el test, ya que son muy completas, legibles y están muy bien estructuradas.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+https://github.com/juanmanuelug/DIU21/blob/master/P4/DIU_report-template-usability-testOK.docx%20(1).pdf
 
 
-
->>> Valoración personal 
+En general las páginas esta muy bien hechas, son faciles de usar y muy agradables a la vista y durante el uso. Han superado con creces los test realizados recibiendo unas calificaciones bastante altas, por tanto por parte de los usuarios queda claro que se trata de unas muy buenas páginas web que explorar.
+La práctica, además de para realizar los tests, nos ha servido para compararnos con otros compañeros, unos de ellos con una propuesta muy similar a la nuestra, y ver qué cosas podríamos haber hecho mejor a lo largo de las prácticas.
 
 
 ## Paso 5. Evaluación de Accesibilidad  
